@@ -1,4 +1,4 @@
-# AI-Prompt-Injection-Defense-System
+# AI-Prompt-Injection-Defense-System:
 
 ## Project Description
 
