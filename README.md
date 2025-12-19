@@ -4,7 +4,7 @@
 
 This project tell us how to protect AI assistants from prompt injection attacks, a security vulnerability where users try to trick AI systems into ignoring their safety rules and revealing sensitive information.
 
-## What I Built
+## What I Built:
 
 I created a multi-layer security system that acts like a "security guard" for AI assistants. It checks every user message for suspicious patterns and blocks attempts to hack the AI's instructions before they can cause harm.
 
